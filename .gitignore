@@ -1,3 +1,5 @@
 *.ipynb_checkpoints
 *.pth
 *.pt
+temp.ipynb
+data/images
