@@ -3,3 +3,4 @@
 *.pt
 temp.ipynb
 data/images
+*__pycache__
