@@ -1,8 +1,11 @@
 *.ipynb_checkpoints
 *.pth
-*.pt
 temp.ipynb
 data/images
 *__pycache__
 data/images_12
 data/images_test
+models/resnet_3k.pt
+models/model_pretrained.pt
+data/features_finetuned_9k.pt
+data/features_pretrained.pt
